@@ -24,7 +24,11 @@ WHY REACT?
 Cross-platform mobile development is the creation of software applications that are compatible with multiple mobile operating systems. Originally, the complexity of developing mobile apps was compounded by the difficulty of building out a backend that worked across multiple platforms.
 
 FEATURES OF REACT
-
+- JSX - JavaScript Syntax Extension
+	- JSX is a syntax extension to JavaScript. It is used with React to describe what the User Interface should look like
+	- By using JSX, you can write HTML structures in the same file that contains JavaScript code
+	- JSX helps in making the code easier to understand and debug as it avoids usage of JS DOM structures which are rather complex 
+	- JSX = JS + HTML
 
 REACT PRE-REQUISITES 
 INDDUSTRY TRENDS
