@@ -29,6 +29,8 @@ FEATURES OF REACT
 	- By using JSX, you can write HTML structures in the same file that contains JavaScript code
 	- JSX helps in making the code easier to understand and debug as it avoids usage of JS DOM structures which are rather complex 
 	- JSX = JS + HTML
+		- ex: ``` const simple = <h1>Hello World!</h1>;```
+			
 
 REACT PRE-REQUISITES 
 INDDUSTRY TRENDS
