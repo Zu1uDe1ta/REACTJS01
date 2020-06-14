@@ -92,7 +92,7 @@ REACT PRE-REQUISITES
 - You should ahve a basi knowledge of JavaScript
 - You should have a some familiarity with HTML
 
-INDDUSTRY TRENDS
+INDUSTRY TRENDS
 - React developers earn more money when compared to other web development technologies
 - React is gaining popularity and is being adopted by a lot of big companies and startups alike
 	- Facebook, Instagram, Netflix, The New York Times, Dropbox
